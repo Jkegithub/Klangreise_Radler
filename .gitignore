@@ -1,0 +1,10 @@
+# Arbeits-/Exportdateien nicht versionieren
+assets/EXTRA/
+*.aup3
+*.zip
+*.7z
+*.rar
+
+# System-/Editordateien
+.DS_Store
+Thumbs.db

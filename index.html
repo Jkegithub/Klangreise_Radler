@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Klangreise durch die Zeit</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1 id="station-title"></h1>
+      <h2 id="station-subtitle"></h2>
+    </div>
+    <div class="content">
+      <img id="clock-image" src="" alt="" />
+      <p id="station-description"></p>
+      <div id="notes-container"></div> <!-- 🎵 Noten -->
+      <audio id="audio-player" controls></audio>
+      <canvas id="visualizer"></canvas> <!-- 📊 Frequenzband -->
+    </div>
+    <div class="controls">
+      <button id="play-button">Play</button>
+      <button id="next-button">Weiter</button>
+    </div>
+    <div class="progress-bar-container">
+      <div class="progress-bar"></div>
+    </div>
+  </div>
+  <script src="script.js?v=2"></script>
+
+</body>
+</html>
