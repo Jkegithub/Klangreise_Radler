@@ -54,7 +54,7 @@ const stations = [
     key: "industrial",
     title: "Industriezeitalter - Bahnhofsuhr (ca. 1900)",
     description:
-      "Das Industriezeitalter brachte die Eisenbahn und damit die Notwendigkeit präziser Zeitmessung an Bahnhöfen. Der Klang einer Bahnhofsuhr wurde uninteressant, deshalb zeigte sie nur schweigend ihre schwarzen neutralen Zeiger. Stattdessen hallten Zeitansagen - An- und Abfahrt - durch die Bahnhofshallen, und die Menschen hetzten über die Bahnsteige. In Deutschland wurden auch diese Zeitansagen UNWICHTIG, weil die Deutsche Bahn grundsätzlich ZEITLOS fährt. ODER STEHT ;-)",
+      "Das Industriezeitalter brachte die Eisenbahn und damit die Notwendigkeit präziser Zeitmessung an Bahnhöfen. Der Klang einer Bahnhofsuhr wurde uninteressant, deshalb zeigte sie nur schweigend ihre schwarzen neutralen Zeiger. Stattdessen hallten Zeitansagen - An- und Abfahrt - durch die Bahnhofshallen, und die Menschen hetzten über die Bahnsteige. In Deutschland wurden auch diese Zeitansagen UNWICHTIG, weil die Deutsche Bahn grundsätzlich ... sagen wir mal ' ZEITLOS ' fährt. ODER STEHT ;-)",
     audio: "assets/audio/train-station-CLOCK_announcment.wav",
     clockImage: "assets/img/train-station-clock-image.jpg",
   },
