@@ -73,7 +73,7 @@ const stations = [
     key: "kaleidoscope",
     title: "Kaleidoskop der U(h)rsounds",
     description:
-      "Eine besondere Sammlung einzigartiger Uhrenklänge – Ticken, Schläge, Kuckuck, Pendel und Countdown verbinden sich zu einem kleinen Klanggemälde.",
+      "Eine besondere Sammlung 25 und mehr einzigartiger Uhrenklänge – <br> Ticken, Schläge, Kuckuck, Pendel und Countdown verbinden sich zu einem kleinen Klanggemälde.",
     audio: "assets/audio/Kaleidoskop-Klangreise.mp3",
     clockImage: "",
     kaleidoImages: [
