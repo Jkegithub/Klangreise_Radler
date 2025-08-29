@@ -367,7 +367,7 @@ function nextStation() {
     stationDescription.innerHTML = `
       Das war die letzte Station. <br> Herzlichen Glückwunsch zum Geburtstag, lieber Norbert! 
       Möge dein Ruhestand voller schöner Momente, Radausfahrten und Uhrenträume sein.
-      Grüße aus dem Tal, von Jürgen
+      Grüße aus dem Tal, von Jürgen ❤️
       
       <div class="final-images">
         <img src="assets/img/Durchstarten.png" alt="Durchstarten !!" class="final-img">
